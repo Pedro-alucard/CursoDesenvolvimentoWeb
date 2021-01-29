@@ -138,6 +138,12 @@ h2{
     padding: 5px;
 }
 
+.conteudo-lateral, .conteudo-secundario, .conteudo-primario{
+    background: #fff;
+    padding: 5px;
+    margin-top:5px;
+}
+
 
 /*Formatando as conteudos das caixas laterais*/
 
@@ -183,15 +189,46 @@ h2{
     border: 2px solid #870529;
     padding: 5px;
 }
+/*Formatando as caixas do conteudo secundario*/
+
+/*formatar imagens*/
+
+
+img.imagem-principal
+{
+    width: 98%;
+    border: 3px solid #dfdfdf;
+}
+
+/*formatar cabecalhos*/
+
+h3
+{
+    line-height: 13px;
+    text-transform: uppercase;
+    display: inline-block ;
+    font-size: 0.8em;
+    padding: 3px;
+    background: #b10333;
+}
+
+.destaque h3
+{
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+.ultima-entrevista h3
+{
+    color:black;
+    margin-bottom: 5px;
+}
+
 
 
 /*rodape*/
 
-.conteudo-lateral{
-    background: #fff;
-    padding: 5px;
-    margin-top:5px;
-}
+
 
 #container-rodape
 {
