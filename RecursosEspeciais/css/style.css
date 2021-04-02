@@ -1,0 +1,210 @@
+/* Box Sizing and border radius 
+
+#caixa{
+    width: 300px;
+    height: 300px;
+    background: #b9c941;
+    padding: 50px;
+    margin: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+   Faz com que o padding nao seja contabilizado na caixa
+    -webkit-border-radius: 10px 50px 80px 100px;
+    -moz-border-radius: 10px 50px 80px 100px;
+    border-radius: 10px 50px 80px 100px;
+}
+
+#caixa2{
+    width: 300px;
+    height: 300px;
+    background: #b9c941;
+    margin: 10px;
+    -webkit-border-radius: 10px 50px 80px 100px;
+    -moz-border-radius: 10px 50px 80px 100px;
+    border-radius: 10px 50px 80px 100px; 
+}
+
+DEGRADE
+  
+#caixa{
+    width: 300px;
+    height: 300px;
+     background:url("https://blog.emania.com.br/wp-content/uploads/2017/09/como-evitar-a-explos%C3%A3o-do-flash-da-c%C3%A2mera.jpg"); 
+     background: linear-gradient(to right,#57e6f0, green);
+     background: linear-gradient(96deg,#57e6f0, green, yellow, purple); 
+     background: radial-gradient(red, green, purple); 
+}
+
+SOMBRAS
+
+#caixa{
+    width: 300px;
+    height: 300px;
+    padding: 8px;
+    background: rgb(25, 212, 203);
+    box-shadow: 0px 0px 40px 20px rgba(129, 110, 236, 0.7);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 100px;
+    
+
+
+
+}
+
+#caixa h1{
+    color: white;
+    text-shadow: 12px 12px 3px rgba(240, 76, 84, 0.3);
+     Primeiro parametro : movimenta a sombra na horizontal, o outro na vertical 
+}
+
+
+ANIMACOES
+
+
+@keyframes animacao-caixa{
+     from{ estado inicial 
+    background: red;
+    border-radius: 0px;
+    top: 0;
+    left: 0;
+    }
+     to{ estado final 
+    background: yellow;
+    border-radius: 300px;
+    top: 200px;
+    left: 200px;
+    }
+}
+
+
+#caixa{
+    width: 300px;
+    height: 300px;
+    background: red;
+    position: relative;
+     animation-name: animacao-caixa;
+    animation-duration: 5s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate; 
+     animation-direction: reverse; 
+    animation:animacao-caixa 5s 2s infinite alternate;
+
+}
+
+#caixa2{
+    width: 300px;
+    height: 300px;
+    background: red;
+    animation-name: animacao-caixa;
+    animation-duration: 5s;
+    animation-delay: 5s;
+
+}
+TRANSICOES
+
+
+
+#caixa{
+    width: 300px;
+    height: 300px;
+    background: orange;
+}
+
+#caixa:hover{
+    width: 400px;
+    background: yellow;
+    -webkit-transition: all 3s;
+    -moz-transition:all 3s ;
+    -o-transition:all 3s ;
+     transition: width 3s, background 3s; 
+    transition: all 3s;
+}
+
+
+ FLEXBOX
+*/
+
+#conteudo{
+    background: rgb(197, 193, 193);
+    height: 1000px;
+    display: flex;
+    /* row | row-reverse | column | column-reverse */
+    /* flex-direction: row; */
+    /* nowrap | wrap | wrap-reverse */
+
+    /* nowrap ele n quebra linha, tenta encaixar tudo mesmo reduzindo os elementos */
+    /* wrap, ele encaixa de alguma maneira o elemento */
+
+    /* flex-wrap: nowrap;  */
+
+    /* flex-start | flex-end | center | space-between | space-around */
+
+    /* como o conteudo vai aparecer, comeco, fim, centralizado, com espaco entre eles colados na lateral
+    , espaco entre eles porem, n colado na lateral */
+
+   /* justify-content: space-around; */
+
+    /* strech | center | flex-start | flex-end | baseline */
+
+    /* preenchem toda a area, centralizados mas n preechem toda a arae, fica na area superior
+    , ficam na parte inferior, item baseado na linha do texto  */
+
+    /* align-items: baseline;  */
+
+}
+
+.item{
+    /* width: 200px; */
+    height: 100px;
+    margin: 10px;
+    background: white;
+    border: 1px solid gray;
+    flex-grow: 0;
+    /* define o tamanho inicial do flex item antes da distribuicao */
+    flex-basis: 100px;
+}
+
+ /* .item1
+{
+    deixa o item sem tamanho fixo , mais espaco oculpa com o numero 
+     flex-grow: 1 ;  
+      deixa o item sem tamanho fixo , menos espaco oculpa com o numero  
+      flex-shrink: 1; 
+
+}
+
+.item2
+{
+     flex-grow: 2 ; 
+     flex-shrink: 2; 
+}
+
+.item3
+{
+     flex-grow: 2 ; 
+     flex-shrink: 5; 
+}  */
+
+/* .ordem1{
+    order: 1;
+}
+
+.ordem2{
+    order: 2;
+}
+
+.ordem3{
+    order: 3;
+}
+
+.ordem4{
+    order: 5;
+}
+
+.ordem{
+    order: -1;
+} */

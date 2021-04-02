@@ -1,0 +1,26 @@
+header{
+    font-size: 1.1em;
+}
+
+nav{
+    border: 1px solid purple;
+}
+
+footer{
+    margin-top : 20px;
+    background:rgb(33, 134, 165);
+}
+
+article{
+    background:orange;
+    padding: 10px;
+}
+
+section{
+    border: 1px dotted white;
+}
+aside{
+    margin-top: 10px;
+    padding: 10px;
+    background: red;
+}

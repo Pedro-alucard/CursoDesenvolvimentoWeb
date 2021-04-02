@@ -1,0 +1,52 @@
+/*
+modelo caixa
+*/
+
+.conteudo{
+    border: 1px solid red;
+    width: 150px;
+    padding: 20px 20px 20px 20px;
+    /*
+      Definindo para cada lado
+
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+
+      Defiindo 1 para todos
+    padding: 20px;
+    */
+
+    /*
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+    margin: 20px 20px 20px 20px;
+    */
+    margin: 10px 20px;
+}
+
+.conteudo2{
+    border: 1px solid red;
+    width: 150px;
+    margin: 5px;
+}
+
+.caixas{
+    margin-bottom: 10px;
+    padding: 10px;
+    color:red;
+}
+
+#principal{
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:1px solid gray;
+}
+
+h2{
+    margin: 0px;
+}

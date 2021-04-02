@@ -1,0 +1,90 @@
+/*
+
+************AULA SELETORES**************
+Seletor Universal
+*{
+    border: 1px solid red;
+}
+
+
+texto
+
+h1{
+    color:green;
+}
+
+Seletor de classe
+
+.verde{
+    color: green;
+}
+
+p.verde{
+    color: green;
+}
+
+seletor de id
+
+#cabecalho{
+    border:1px solid blue;
+}
+
+seletor de filho
+
+li>a{
+    color:red;
+    text-decoration: none;
+}
+
+seletor Descendentes 
+
+p a {
+    color: green;
+}
+
+seletor de irmao descendente
+
+h1+p{
+color:red;
+}
+seltor de irmao geral
+h1~p{
+    color:green;
+
+}
+************FIM AULA SELETORES**************
+
+************AULA HERANCA**************
+
+
+body{
+    color: green;
+    background: black;
+}
+
+ultimo seletor sera contado, execao important
+
+p{
+    color: gainsboro !important;
+}
+
+p{
+    color: green;
+}
+
+quanto mais especifico, ele sera aplicado ao inves dos seletores menos especificos
+
+*{
+    color:red;
+}
+
+h2{
+    color:green;
+}
+
+h2.verde{
+    color:blue;
+}
+
+*/
+

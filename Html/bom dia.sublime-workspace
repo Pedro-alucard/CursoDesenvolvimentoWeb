@@ -1,0 +1,240 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"lo",
+				"Login"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Aula1html"
+	],
+	"file_history":
+	[
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/projetos/FirstSite.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/projetos/quemsomos.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/projetos/contato.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Aula1html/formularios.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Aula1html/Tabela.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Aula1html/listas.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Aula1html/estrutura.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Aula1html/projetos/quemsomos.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Aula1html/projetos/contato.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Aula1html/projetos/FirstSite.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Aula1html/imagens.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Aula1html/caracteresespeciais.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Aula1html/farmatacao(text).html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Aula1html/desafio.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Links/contato.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Links/index.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Links/pag2.html",
+		"/C/Users/toxic/Desktop/ph/Curso/estudar.cmd",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Links/pag1.html",
+		"/C/Users/toxic/Desktop/ph/bath/estudaingles.cmd",
+		"/C/Users/toxic/Desktop/ph/bath/ph.cmd",
+		"/C/Users/toxic/Desktop/ph/bath/ph",
+		"/C/Users/toxic/Desktop/ph/bath/ph.c",
+		"/C/Users/toxic/Desktop/ph/bath/bomdi",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Aula1html/site3.html",
+		"/C/Users/toxic/Desktop/ph/skin changi/cshSkins/hostdll.exe",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Aula1html/site4.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Aula1html/site.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Aula1html/site2.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Aula1html/site3",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/aual2/site3",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/aual2/site2.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/aual2/site2",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Aula1html/projeto.exe",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/Projeto Web/index.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/projeto Aula/index.html",
+		"/C/Users/toxic/Desktop/ph/Projetos sublime/projeto Aula/CSS/estilo.css"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 114.0,
+		"where_history":
+		[
+			"C:\\Users\\toxic\\Desktop\\ph\\Projetos sublime\\Links"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"desenvolvimento"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bom dia.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

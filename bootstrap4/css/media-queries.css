@@ -1,0 +1,69 @@
+/* 
+576px
+768px
+992px
+1200px */
+/* 
+
+@media (min-width : 576px) {
+    body{
+        background-color: red;
+    }
+}
+
+@media (min-width : 768px) {
+    body{
+        background-color: blue;
+    }
+}
+
+
+@media (min-width : 992px) {
+    body{
+        background-color: green;
+    }
+}
+
+@media (min-width : 1200px) {
+    body{
+        background-color: yellow;
+    }
+} */
+
+
+
+ /* X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    body{
+        background-color: red;
+    }
+ }
+
+ /* Small devices (landscape phones, more than 767px) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    body{
+        background-color: rgb(26, 137, 228);
+    }
+ }
+
+ /* Medium devices (tablets, less than 992px) */
+ @media (min-width: 768px) and (max-width: 991.98px) { 
+    body{
+        background-color: rgb(233, 12, 115);
+    }
+}
+
+ /* Large devices (desktops, less than 1200px) */
+@media (min-width:991.98px) and (max-width: 1199.98px) { 
+    body{
+        background-color: rgb(99, 231, 87);
+    }
+ }
+
+ /* X-Large devices (large desktops, more than 1200px) */
+@media (min-width: 1200px) { 
+    body{
+        background-color: rgb(209, 241, 22);
+    }
+ }
+
